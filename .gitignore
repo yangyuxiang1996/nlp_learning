@@ -1,1 +1,4 @@
 .DS_Store
+.vscode
+projects/FakeNews/bert-*/
+projects/FakeNews/data/
