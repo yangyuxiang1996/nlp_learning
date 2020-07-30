@@ -2,3 +2,5 @@
 .vscode
 projects/FakeNews/bert-*/
 projects/FakeNews/data/
+*.csv
+*.tsv
