@@ -4,3 +4,4 @@ projects/FakeNews/bert-*/
 projects/FakeNews/data/
 *.csv
 *.tsv
+projects/FakeNews/bertviz_repo/
